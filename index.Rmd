@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Members
 Ziqiao Sun (https://github.com/ziqiaos2)  
-Young Ha Suh (https://github.com/younghasuh)\ 
+Young Ha Suh (https://github.com/younghasuh) \
 
 ## Image example
 ![NTRES 6940 course logo](https://nt246.github.io/NTRES6940-data-science/assets/logo.png)
