@@ -1,0 +1,9 @@
+---
+title: "Untitled"
+author: "Young Ha Suh"
+output: html_document
+---
+
+* PhD Candidate, Ecology and Evolutionary Biology
+* Studying dispersal in a cooperative breeder
+* South Korean
