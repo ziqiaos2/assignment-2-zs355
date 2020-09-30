@@ -1,8 +1,9 @@
 ---
-title: "Young"
-author: "Young Ha Suh"
+title: "Young Ha Suh"
 output: html_document
 ---
+
+## Who I am
 
 * PhD Candidate, Ecology and Evolutionary Biology
 * Studying dispersal in a cooperative breeder
